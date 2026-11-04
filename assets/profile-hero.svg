@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="hTitle hDesc">
+  <title id="hTitle">Hanny Y — 杨焉含 · 内容与增长</title>
+  <desc id="hDesc">浅色瑞士风格横幅：暖纸白背景、粗体无衬线姓名、发丝栏格线与深绿强调色，右侧为所在地与专注领域。</desc>
+
+  <defs>
+    <clipPath id="hFrame">
+      <rect width="1200" height="420" rx="4"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#hFrame)">
+    <rect width="1200" height="420" fill="#FAF8F4"/>
+
+    <g stroke="#14161A" stroke-opacity="0.10" stroke-width="1">
+      <line x1="64" y1="0" x2="64" y2="420"/>
+      <line x1="420" y1="0" x2="420" y2="420"/>
+      <line x1="780" y1="0" x2="780" y2="420"/>
+      <line x1="1116" y1="0" x2="1116" y2="420"/>
+    </g>
+
+    <text x="96" y="72" fill="#6B6F76" font-family="Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif" font-size="11" font-weight="600" letter-spacing="4.5">PERSONAL PROFILE · 2026</text>
+
+    <text x="92" y="200" fill="#14161A" font-family="Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif" font-size="76" font-weight="700" letter-spacing="-3.6">Hanny Y</text>
+
+    <text x="96" y="236" fill="#8A8F96" font-family="Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif" font-size="17" font-weight="500" letter-spacing="3.4">杨焉含 · YANG YANHAN</text>
+
+    <rect x="96" y="268" width="56" height="4" fill="#0B5D4B"/>
+
+    <text x="96" y="312" fill="#14161A" font-family="Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif" font-size="29" font-weight="600" letter-spacing="0.6">把内容做成生意</text>
+
+    <text x="96" y="344" fill="#5A5F66" font-family="Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif" font-size="14.5" font-weight="400" letter-spacing="0.2">香港旅拍 IP 主理人 · 10w+ 爆款 ×10 · 600+ 客户转化</text>
+
+    <g font-family="Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif">
+      <text x="820" y="196" fill="#8A8F96" font-size="10.5" font-weight="700" letter-spacing="2.4">01 — BASED IN</text>
+      <text x="820" y="222" fill="#14161A" font-size="16" font-weight="500">香港 · 深圳</text>
+
+      <text x="820" y="278" fill="#8A8F96" font-size="10.5" font-weight="700" letter-spacing="2.4">02 — FOCUS</text>
+      <text x="820" y="304" fill="#14161A" font-size="16" font-weight="500">内容 · 增长 · 转化</text>
+    </g>
+
+    <text x="96" y="392" fill="#8A8F96" font-family="Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif" font-size="10.5" font-weight="600" letter-spacing="2.6">GITHUB.COM/HANNY-0303</text>
+    <text x="1088" y="392" fill="#0B5D4B" font-family="Helvetica Neue, Helvetica, PingFang SC, Hiragino Sans GB, Microsoft YaHei, Arial, sans-serif" font-size="10.5" font-weight="700" letter-spacing="2.6" text-anchor="end">OPEN TO WORK</text>
+  </g>
+</svg>
